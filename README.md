@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SQL, Database Management and PowerBI**
 
-- 📫 How to reach me **babatunderaj@gmail.com**
+- 📫 Reach Me Via **babatunderaj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
